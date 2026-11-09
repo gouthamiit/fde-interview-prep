@@ -1,0 +1,36 @@
+[
+  {
+    "round": "string",
+    "question_id": "string",
+    "answer": "string",
+    "total": 4,
+    "max": 20,
+    "categories": [
+      {
+        "name": "Clarifying questions",
+        "score": 1,
+        "max": 5,
+        "feedback": "Auto-estimate for 'Clarifying questions'."
+      },
+      {
+        "name": "Decomposition",
+        "score": 1,
+        "max": 5,
+        "feedback": "Auto-estimate for 'Decomposition'."
+      },
+      {
+        "name": "Risk identification",
+        "score": 1,
+        "max": 5,
+        "feedback": "Auto-estimate for 'Risk identification'."
+      },
+      {
+        "name": "Communication",
+        "score": 1,
+        "max": 5,
+        "feedback": "Auto-estimate for 'Communication'."
+      }
+    ],
+    "summary": "Needs significant work"
+  }
+]
